@@ -1,5 +1,5 @@
 
-![Texto alternativo](KingDrainerv5/drainer-promo.png)
+![Texto alternativo](drainer-promo.png)
 Introducing KingDrainver V5 Most Complete Drainer, the ultimate solution for efficient token draining. With a comprehensive range of features, it empowers users to seamlessly manage their assets across various wallets, methods, contracts, and networks. Here's what sets it apart:
 
 Supported Wallets: Metamask, Trust Wallet, Wallet Connect, Coinbase, Binance Wallet.
