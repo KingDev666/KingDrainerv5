@@ -14,6 +14,6 @@ Documentation: Comprehensive guidance to ensure seamless integration and utiliza
 Experience unparalleled efficiency and flexibility with KingDrainver V5 Most Complete Drainer, the ultimate tool for token management across diverse ecosystems.
 
 Price : $699 
-Contact to buy : @KingDrainerV5
+Contact to buy : @KingDrainer5
 
 Check Our Demos On - https://kingdrainer.com/
